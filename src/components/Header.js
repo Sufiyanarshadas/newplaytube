@@ -131,10 +131,10 @@ const Header = () => {
           </div>
         </div>
         <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-          <Link to={"https://github.com/thecodophile"}>
+          <Link to={"https://instagram.com/m_usman.prince"}>
             <img
-              src="https://avatars.githubusercontent.com/u/108585532?v=4"
-              alt="Codophile"
+              src="https://instagram.com/m_usman.prince"
+              alt="Usman"
             />
           </Link>
         </div>
